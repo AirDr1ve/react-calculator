@@ -1,0 +1,16 @@
+.delete-btn {
+  height: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #03b1ff;
+  color: #000000;
+  flex: 1;
+  outline: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.delete-btn:active {
+  background-color: rgb(116, 116, 116);
+}
